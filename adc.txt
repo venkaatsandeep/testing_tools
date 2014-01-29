@@ -1,0 +1,5 @@
+1)Created a new repository
+2) Add this to original repository
+3) pushed onto the old one
+4) if I commit the file, where does it get saved
+
